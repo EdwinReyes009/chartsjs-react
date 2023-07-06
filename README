@@ -1,0 +1,8 @@
+Activate the server with nexts steps
+1. cd server
+2. nodemon index.mjs
+
+Activate the client with nexts steps
+1. cd react-charts
+2. npm run dev
+
